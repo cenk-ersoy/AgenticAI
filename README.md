@@ -1,2 +1,2 @@
 # AgenticAI
-Code for creating agents
+Python code for creating agents
